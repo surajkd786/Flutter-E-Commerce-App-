@@ -25,7 +25,7 @@ Full Stack E-COMMERCE APP along with Admin Panel
     - Viewing Category Based Earnings (on Graph)
 
 ## Running Locally
-After cloning this repository, migrate to ```flutter-amazon-clone-tutorial``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```Flutter-E-Commerce-App``` folder. Then, follow the following steps:
 - Create MongoDB Project & Cluster
 - Click on Connect, follow the process where you will get the uri.- Replace the MongoDB uri with yours in ```server/index.js```.
 - Head to ```lib/constants/global_variables.dart``` file, replace <yourip> with your IP Address. 
